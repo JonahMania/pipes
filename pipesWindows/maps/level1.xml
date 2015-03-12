@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map width="4" height="4" startx="5" starty="4" endx="1" endy="0" speed="1" >
+ <data>
+  <tile type="1" hidden="1"/>
+  <tile type="1" hidden="1"/>
+  <tile type="0" hidden="1"/>
+  <tile type="3" hidden="1"/>
+  <tile type="4" hidden="1"/>
+  <tile type="3" hidden="1"/>
+  <tile type="0" hidden="1"/>
+  <tile type="3" hidden="1"/>
+  <tile type="0" hidden="1"/>
+  <tile type="2" hidden="1"/>
+  <tile type="4" hidden="0"/>
+  <tile type="2" hidden="0"/>
+  <tile type="1" hidden="1"/>
+  <tile type="4" hidden="1"/>
+  <tile type="3" hidden="0"/>
+  <tile type="1" hidden="0"/>
+ </data>
+</map>
